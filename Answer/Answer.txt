@@ -1,0 +1,11 @@
+The aim of this company and project is to innovate the field of art by bringing into its new technologies allowing the users; companies or collectors or curious minds, to easily integrate and understand this field.
+
+The company will develop a mobile and web application, the mobile version will be available in the play store and app store, both these applications, mobile and web, will hold the informations about artists, details about their pieces of art and any other information that can be helpful for the user.
+
+Furthermore, the company will develop an intelligent part which is basically a time series forecast model that can be developed using multiple Machine Learning models, that focuses on the trend, this way we can estimate the value of an artist or a piece of art in the long run, giving the user enough information about the value of that artist or art piece.
+
+This intelligent part of the platforms falls into my field of work, in order to develop this model and gather the informations that will be displayed in the mobile and web applications, we will have to collect the data using the web scraping methods and technologies such as: selenium, scrapy, beautiful soup...  then preprocess the data and gather as much informations from it as we can because this data can help us create other innovative services for our users, the next phase would be modelling, evaluating and deploying.
+
+Finally integrate the intelligent part to the applications.
+
+This project will bring a touch of innovation and creativity in art by integrating mobile and web development with the Artificial intelligence to improve the user experience.
